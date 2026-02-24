@@ -1,5 +1,7 @@
-## Hi there 👋
+# Hi there 👋 i am Debadata Rout.
 
+<hr>
+##🌟 About Me
 <!--
 **Rout-Debadata/Rout-Debadata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
